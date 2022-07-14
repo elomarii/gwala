@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"main.dart.js": "a9459a04c43d63fb06f7a8f605d75802",
+"main.dart.js": "7ea8287f7ced4e4bd954587a67e73622",
 "icons/Icon-192.png": "d820aa1ee1b90c3c81ef49f76139fa13",
 "icons/Icon-512.png": "afb8ebb87168b7397699e7b2330cd1ac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -29,11 +29,11 @@ const RESOURCES = {
 "assets/assets/png/why2.png": "32f5fcd56454e2b1a82737552a170349",
 "assets/assets/png/why1.png": "16f510126a05351b1168fd0166d0b5b1",
 "assets/assets/png/help.png": "50a1637c50de8ed3c13446beae79a8ca",
+"assets/assets/png/wallet.png": "1d1833028a3c00ca758d22f3819e1d13",
 "assets/assets/png/settings.png": "33085dc273037c080b89964e58b201ef",
 "assets/assets/png/why3.png": "5ecfbed3d1a486660a71c81717b53eb5",
 "assets/assets/png/menu.png": "0966a1a562b0a06355b2707d981457af",
 "assets/assets/png/facebook.png": "b58a22bc15699940e2641dbafada5be4",
-"assets/assets/png/dollar.png": "aaf7f37f1f0a41cb4f96be0899c3cba7",
 "assets/assets/png/logo.png": "8695f4314d0746f5e13ee615d6c07a4c",
 "assets/assets/json/salary.json": "3711fa04389e563771c59b26df4e76ac",
 "assets/assets/json/interest.json": "7b86be784421edbae665389ccd41e988",
@@ -55,7 +55,7 @@ const RESOURCES = {
 "assets/assets/json/scrolldown.json": "1eaf76ef5694a7b18a5a13407caec6c6",
 "assets/assets/jpg/buy.jpg": "d1f996ac0614408aea457055ff7eee58",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/AssetManifest.json": "9d7a07024553b1f37a0c077172ddcc0b",
+"assets/AssetManifest.json": "41f7b1c964e57817315080a3a1910f1e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/NOTICES": "97514c4d8b03c3ecedf1c8d658614279",
 "manifest.json": "980c49c9bc2fd5d0aa0c2aaa460f94f5",
@@ -64,8 +64,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "48938fcedba24a21d7a10ba94933a8ce",
-"/": "48938fcedba24a21d7a10ba94933a8ce",
+"index.html": "f8d6543c9e8f14fb131175fa9c659e74",
+"/": "f8d6543c9e8f14fb131175fa9c659e74",
 "favicon.png": "b3cc06cdd4734a8712d1c017570e40fd"
 };
 
