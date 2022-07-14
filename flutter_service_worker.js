@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"main.dart.js": "f13261cc5de7abfbc02a8ee1002466c7",
+"main.dart.js": "a9459a04c43d63fb06f7a8f605d75802",
 "icons/Icon-192.png": "d820aa1ee1b90c3c81ef49f76139fa13",
 "icons/Icon-512.png": "afb8ebb87168b7397699e7b2330cd1ac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -33,6 +33,7 @@ const RESOURCES = {
 "assets/assets/png/why3.png": "5ecfbed3d1a486660a71c81717b53eb5",
 "assets/assets/png/menu.png": "0966a1a562b0a06355b2707d981457af",
 "assets/assets/png/facebook.png": "b58a22bc15699940e2641dbafada5be4",
+"assets/assets/png/dollar.png": "aaf7f37f1f0a41cb4f96be0899c3cba7",
 "assets/assets/png/logo.png": "8695f4314d0746f5e13ee615d6c07a4c",
 "assets/assets/json/salary.json": "3711fa04389e563771c59b26df4e76ac",
 "assets/assets/json/interest.json": "7b86be784421edbae665389ccd41e988",
@@ -54,17 +55,17 @@ const RESOURCES = {
 "assets/assets/json/scrolldown.json": "1eaf76ef5694a7b18a5a13407caec6c6",
 "assets/assets/jpg/buy.jpg": "d1f996ac0614408aea457055ff7eee58",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/AssetManifest.json": "d239457c283851a29e406ac297982b45",
+"assets/AssetManifest.json": "9d7a07024553b1f37a0c077172ddcc0b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "9fbfc8576a35a1fb6085b488e7bbd2bc",
+"assets/NOTICES": "97514c4d8b03c3ecedf1c8d658614279",
 "manifest.json": "980c49c9bc2fd5d0aa0c2aaa460f94f5",
 "version.json": "e6340be3d8d7f848194b794ab836a5c3",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "b8b58632fc8a8cebf336fb0464154dd2",
-"/": "b8b58632fc8a8cebf336fb0464154dd2",
+"index.html": "48938fcedba24a21d7a10ba94933a8ce",
+"/": "48938fcedba24a21d7a10ba94933a8ce",
 "favicon.png": "b3cc06cdd4734a8712d1c017570e40fd"
 };
 
